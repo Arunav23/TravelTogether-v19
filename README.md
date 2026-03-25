@@ -667,7 +667,7 @@ sell copies of the Software.
 
 <div align="center">
 
-**Built with 🔥 by Satzzxzxx**
+**Built with 🔥 by Arunav Mehta**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Satzzxzxx-1a1a2e?style=for-the-badge&logo=github)](https://github.com/Satzzxzxx)
 
